@@ -1,2 +1,2 @@
 # omnifood
-Practicing HTML &amp; CSS
+Practicing HTML5 &amp; CSS3
