@@ -443,3 +443,27 @@ cite img{
  *:focus{
     outline: none;
  }
+
+ /* ---------------------------*/
+/* FOOTER */
+/* --------------------------- */
+footer{
+    background: #333;
+}
+.footer-nav{
+    list-style: none;
+    float: left;
+}
+.social-links {
+    list-style: none;
+    float: right;
+}
+.footer-nav li, 
+.social-links li {
+    display: inline-block;
+    margin-right: 20px;
+}
+.footer-nav li:last-child, 
+.social-links li:last-child{
+    margin:0;
+}
