@@ -107,6 +107,8 @@
     }
     .work-step{ margin-bottom: 20px;}
     .work-step:last-of-type{ margin-bottom: 2 0px;}
+    .social-links{ float: left; }
+    
 }
     
 
@@ -114,4 +116,5 @@
 @media only screen and (max-width: 480px){
     section{ padding: 24px 0;}
     .contact-form{ width: 100%}
+    .social-links{ float: left; }
 }
